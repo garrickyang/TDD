@@ -1,0 +1,10 @@
+1. create junit file FizzBussTest
+2. create testcase give3_thenFizz
+3. create class FizzBuss to let testcase green
+4. create testcase give5_thenBuzz
+5. change fizzBuss to let testcase green
+6. create testcasegive15_thenFizzBuzz
+7. change fizzBuss to let testcase green
+8. create testcase give1_then1
+9. let test case green
+10. create testcse give11_then11
