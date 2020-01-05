@@ -24,5 +24,10 @@ public class FizzBuzzTest {
     public void give11_then11(){
         assertEquals(11+"", FizzBuzz.transfer(11));
     }
+
+    @Test
+    public void give0_then(){
+    assertEquals(0+"",FizzBuzz.transfer(0));
+    }
 }
 

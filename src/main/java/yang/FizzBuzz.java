@@ -3,6 +3,10 @@ package yang;
 public class FizzBuzz {
     public static String transfer(int number){
         String result="";
+        if(number==0){
+
+        return number+"";
+        }
         if(number%3==0){
             result+= "Fizz";
         }
